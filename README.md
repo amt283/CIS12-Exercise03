@@ -40,7 +40,7 @@ I think the instructor's solution is much better, it's much more efficient and h
 
 - <b>Exercise 3.11.2:</b>
 
-I think both are good, but I think if I was creating a program for general use (or wanted it easy to read at a glance) I would stick with my for its length.
+I think both are good, but I think if I was creating a program for general use (or wanted it easy to read at a glance) I would stick with mine for its length.
 
 - <b>Exercise 3.11.3:</b>
 
