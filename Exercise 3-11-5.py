@@ -1,6 +1,8 @@
 def main():
     bottle_verse(5)
 
+# Write a function called bottle_verse that takes a number as a parameter and
+# displays the verse that starts with the given number of bottles.
 def bottle_verse(bottle_num):
     for i in range(bottle_num, 0 , -1):
         bottle_song(bottle_num)
